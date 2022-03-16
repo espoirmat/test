@@ -104,10 +104,14 @@ footer .colonnes .colonne
 
 @media screen and (max-width: 900px)
 {
+    body .page
+    {
+        margin: 0%;
+    }
 
 nav .onglet a
 {
-    font-size: 0.7rem;
+    font-size: 0.5rem;
 }
 
 .page .buttons button
@@ -117,13 +121,13 @@ nav .onglet a
 }
 .page header
 {
-    background-size: 200px 200px;
+    background-size: 300px 300px;
     margin-top: 40%;
 }
 
 .page header h1
 {
-    font-size: 2rem;
+    font-size: 2.5rem;
 
 }
 
