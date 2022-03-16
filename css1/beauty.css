@@ -4,7 +4,7 @@
 }
 body
 {
-    background: linear-gradient(90deg,#2980B9,rgba(255, 255, 0, 0.514));
+    background: black;
 }
 
 body .page
@@ -18,7 +18,7 @@ nav
     justify-content: space-between;
     position: sticky;
     top: 0%;
-    background: linear-gradient(90deg,#2980B9,rgba(255, 255, 0, 0.514));
+    background: black;
     padding: 1% 0%;
 }
 
@@ -50,7 +50,7 @@ nav .onglet a
 .page .buttons .login
 {
     background-color: inherit;
-    color: black;
+    color: whitesmoke;
 }
 
 .page .buttons .registre
@@ -72,6 +72,7 @@ nav .onglet a
 .page header h1
 {
     text-align: center;
+    color: whitesmoke;
     font-size: 3.5rem;
     padding: 20%;
 }
@@ -79,7 +80,8 @@ nav .onglet a
 
 footer
 {
-    background: linear-gradient(90deg,#297fb957,rgba(255, 255, 0, 0.322));
+    background: black;
+    color: whitesmoke;
     margin: 2% auto;
 }
 
